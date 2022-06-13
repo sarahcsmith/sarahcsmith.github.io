@@ -25,6 +25,9 @@ github_username: username
 minimal_mistakes_skin: default
 search: true
 
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "contrast"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
