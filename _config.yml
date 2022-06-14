@@ -23,7 +23,7 @@ url: "https://sarahcsmith.github.io/" # the subpath of your site, e.g. /blog
 repository: "sarahcsmith.github.io"
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: "contrast"
 search: true
 
 # Build settings
