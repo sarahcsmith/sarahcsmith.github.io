@@ -9,8 +9,8 @@ My teaching philosophy balances theory and application. Economics provides a sty
 
 In Summer of 2021, I instructed a high-level elective economics class titled “Futures and Options Markets” (ARE139). The class focused on the mechanics and economic functions of markets, including price formation and risk management. I successfully taught the advanced material to the class of 70 students despite the challenges of online teaching and additional stress induced by the COVID-19 pandemic. 
 
-In student evaluations, my teaching effectiveness was rated 4.7/5 with most students rating my teaching effectiveness as excellent (5/5). I was rated highly in all characteristics, including overall educational value of the course (4.6/5), my presentation of the material (4.6/5), preparation and organisation (4.7/5), and enthusiasm (4.8/5). See the complete evaluation [summary](../assets/ARE139_summary.pdf) and student's [comments](../assets/ARE139_comments.pdf).
+In student evaluations, my teaching effectiveness was rated 4.7/5 with most students rating my teaching effectiveness as excellent (5/5). I was rated highly in all characteristics, including overall educational value of the course (4.6/5), my presentation of the material (4.6/5), preparation and organisation (4.7/5), and enthusiasm (4.8/5). See student's evaluation [summary](../assets/ARE139_summary.pdf) and [comments](../assets/ARE139_comments.pdf).
 
 ## Teaching Assistant
 
-In Winter of 2019, I was a teaching assistant in 2019 for the class “Financial Management of the Firm” (ARE172). In student evaluations, I was rated as approachable (5/5), organized (4.9/5), and helped students understand course concepts (4.9/5). See the complete evaluation [summary](../assets/ARE172_summary.pdf)  and student's [comments](../assets/ARE172_comments.pdf).
+In Winter of 2019, I was a teaching assistant in 2019 for the class “Financial Management of the Firm” (ARE172). In student evaluations, I was rated as approachable (5/5), organized (4.9/5), and helped students understand course concepts (4.9/5). See student's evaluation [summary](../assets/ARE172_summary.pdf) and  [comments](../assets/ARE172_comments.pdf).
