@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Sarah C. Smith"
+title: "Home"
 ---
 PhD Candidate, Agricultural and Resource Economics, UC Davis
 
