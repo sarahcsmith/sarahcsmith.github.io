@@ -1,10 +1,9 @@
 ---
 layout: single
 author_profile: true
-title: "Home"
+title: "Sarah C. Smith"
 ---
 
-## Sarah C. Smith
 PhD Candidate, Agricultural and Resource Economics, UC Davis
 
 ![Headshot](/assets/Headshot.jpg)
