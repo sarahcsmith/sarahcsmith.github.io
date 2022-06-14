@@ -24,7 +24,7 @@ repository: "sarahcsmith.github.io"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: "contrast"
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
