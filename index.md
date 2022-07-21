@@ -4,8 +4,8 @@ author_profile: true
 title: "Sarah C. Smith"
 ---
 
-PhD Candidate \\
-Agricultural and Resource Economics \\
+PhD Candidate  
+Agricultural and Resource Economics  
 University of California, Davis
 
 ![Headshot](/assets/Headshot.jpg)
