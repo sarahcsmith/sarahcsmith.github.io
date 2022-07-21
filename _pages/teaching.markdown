@@ -15,15 +15,14 @@ In Winter of 2019, I was a teaching assistant for the class ARE172 “Financial 
 
 ## Selected student feedback
 
-> I was very happy to find that the material you present to us was not only enjoyable to listen to but that you genuinely care about how we feel about the concepts. Thank you for that. 
+> The instructor presented difficult material in lectures clearly and included many great real-world examples. This helped my understanding of the material immensely.
 
-> The professor was very fair and clear at all times, and accommodated students.
+> I was very happy to find that the material you present to us was not only enjoyable to listen to but that you genuinely care about how we feel about the concepts. Thank you for that.
 
 > Actually, I didn't do well on ARE 100A/B which are all theoretical materials and felt those boring. However, it's amazing that I become interested in the reasoning to inter-temporal price relationships and spatial price relationships, even explaining them to my friend!
 
-> I appreciated how the course was formatted to ensure student learning and retention of information.
+> You also organized the class so well that even affect me to develop two effective learning habits: 1. Staying curious about how the world is changing and how they link to the theories I learned; 2. Reviewing for each week's material is the best pace for me to memory the materials and ask questions
+
+> This last week I've been explaining the basics of futures market to every family memeber in my family. That was pretty cool.
 
 > Sarah was an amazing TA and probably my favorite TA from all my classes so far. She was incredibly helpful and accommodating. I attended discussion and office hours regularly because I was motivated to understand the content because her teaching style was so effective.
-
-> you also organized the class so well that even affect me to develop two effective learning habits: 1. Staying curious about how the world is changing and how they link to the theories I learned; 2. Reviewing for each week's material is the best pace for me to memory the materials and ask questions
-
