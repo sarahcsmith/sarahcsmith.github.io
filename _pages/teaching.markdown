@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-My teaching philosophy balances theory and application. Economics provides a stylised framework to understand complex relationships. Equally important to learning these theories is applying them to real-world problems. My goal is to uphold the rigorous learning objectives while also keeping students engaged and motivated. The opportunity to shape and impart knowledge onto the next generation brings me a lot of joy and purpose, and I look forward to teaching, supervising and mentoring students in my future career.
+My teaching philosophy balances theory and application. Economics provides a stylised framework to understand complex relationships. Equally important to learning these theories is applying them to real-world problems. My goal is to uphold the rigorous learning objectives while also keeping students engaged and motivated. The opportunity to shape and impart knowledge onto the next generation brings me joy and purpose, and I look forward to teaching, supervising and mentoring students in my future career.
 
 ## Instructor
 
