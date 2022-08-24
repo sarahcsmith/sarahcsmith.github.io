@@ -17,12 +17,12 @@ In Winter of 2019, I was a teaching assistant for the class ARE172 “Financial 
 
 > The instructor presented difficult material in lectures clearly and included many great real-world examples. This helped my understanding of the material immensely.
 
-> Actually, I didn't do well on ARE 100A/B which are all theoretical materials and felt those boring. However, it's amazing that I become interested in the reasoning to inter-temporal price relationships and spatial price relationships, even explaining them to my friend!
+> Actually, I didn't do well on ARE 100A/B [introductory microeconomics classes] which are all theoretical materials and felt those boring. However, it's amazing that I become interested in the reasoning to inter-temporal price relationships and spatial price relationships, even explaining them to my friend!
 
 > I was very happy to find that the material you present to us was not only enjoyable to listen to but that you genuinely care about how we feel about the concepts. Thank you for that.
 
 > [I am] curious about how the world is changing and how they link to the theories I learned.
 
-> This last week I've been explaining the basics of futures market to every family memeber in my family. That was pretty cool.
+> This last week I've been explaining the basics of futures market to every family [member] in my family. That was pretty cool.
 
 > Sarah was an amazing TA and probably my favorite TA from all my classes so far. She was incredibly helpful and accommodating. I attended discussion and office hours regularly because I was motivated to understand the content because her teaching style was so effective.
