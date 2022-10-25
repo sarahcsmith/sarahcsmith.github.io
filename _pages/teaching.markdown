@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-My teaching philosophy balances theory and application. Economics provides a stylised framework to understand complex relationships. Equally important to learning these theories is applying them to real-world problems. My goal is to uphold the rigorous learning objectives while also keeping students engaged and motivated. The opportunity to shape and impart knowledge onto the next generation brings me joy and purpose, and I look forward to teaching, supervising and mentoring students in my future career.
+My teaching philosophy balances theory and application. Economics provides a stylised framework to understand complex relationships. Equally important to learning these theories is applying them to real-world problems. My goal is to uphold the rigorous learning objectives while also keeping students engaged and motivated.
 
 ## Instructor
 
@@ -24,5 +24,9 @@ In Winter of 2019, I was a teaching assistant for the class ARE172 “Financial 
 > [I am] curious about how the world is changing and how they link to the theories I learned.
 
 > This last week I've been explaining the basics of futures market to every family [member] in my family. That was pretty cool.
+
+> I liked the instructor's passion for teaching this subject. I can tell they love what thtey do which got me excited to learn more.
+
+> I appreciated how the course was formatted to ensure student learning and retention of information.
 
 > Sarah was an amazing TA and probably my favorite TA from all my classes so far. She was incredibly helpful and accommodating. I attended discussion and office hours regularly because I was motivated to understand the content because her teaching style was so effective.
