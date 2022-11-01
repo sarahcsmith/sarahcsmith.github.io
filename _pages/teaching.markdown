@@ -25,7 +25,7 @@ In Winter of 2019, I was a teaching assistant for the class ARE172 “Financial 
 
 > This last week I've been explaining the basics of futures market to every family [member] in my family. That was pretty cool.
 
-> I liked the instructor's passion for teaching this subject. I can tell they love what thtey do which got me excited to learn more.
+> I liked the instructor's passion for teaching this subject. I can tell they love what [they] do which got me excited to learn more.
 
 > I appreciated how the course was formatted to ensure student learning and retention of information.
 
