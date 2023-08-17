@@ -16,14 +16,11 @@ Quality is central to agriculture because of its role in price determination and
 {:style="clear: left"}
 Press: [National Geographic](https://www.nationalgeographic.com/environment/article/climate-change-is-coming-for-your-pizza-sauce)
 
-### The Politics of Work and Race in the Supplemental Nutrition Assistance Program (With Joel Cuffey & Kara Newby)
-![](../assets/SNAP.png){: width="500" }{: .align-left}  
-States have some discretion for how to implement Supplemental Nutrition Assistant Program (SNAP) policy, and this discretion can influence caseloads and potentially food insecurity. SNAP policy requires some participants to work, and this work requirement has generated considerable policy interest recently. States can use their discretion to request waivers of this work requirement in areas during times of high unemployment. We investigate whether state politics or a county’s racial composition predict how states allocate waiver requests, conditional on unemployment by combining data on county-level SNAP work requirement waiver status from 2005-2018 with county-level data from a range of different sources. We find differences in waivers granted to counties by political party and racial composition: counties with higher percentages of Black populations and those in GOP controlled states are less likely to be waived when controlling for unemployment.
-{:style="clear: left"}
-
 ## Publications
 
 Smith, S. C. & D. Ubilava (2017). The El Ni&ntilde;o Southern Oscillation Cycle and Growth in the Developing World. <em>Global Environmental Change</em> 45, 151-164. [Link](https://www.sciencedirect.com/science/article/pii/S0959378017300432)
+
+Cuffey, J., K. Newby, S. Smith (2023). Social Inequity in Administrative Frictions: Evidence from SNAP. <em>Public Administration Review</em> (in press). [Link](https://doi.org/10.1111/puar.13701)
 
 ## Outreach Material
 
