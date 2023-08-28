@@ -18,9 +18,9 @@ Press: [National Geographic](https://www.nationalgeographic.com/environment/arti
 
 ## Publications
 
-Smith, S. C. & [D. Ubilava](https://davidubilava.com/) (2017). The El Ni&ntilde;o Southern Oscillation Cycle and Growth in the Developing World. <em>Global Environmental Change</em> 45, 151-164. [Link](https://www.sciencedirect.com/science/article/pii/S0959378017300432)
-
 Cuffey, J., K. Newby, & S. Smith (2023). Social Inequity in Administrative Frictions: Evidence from SNAP. <em>Public Administration Review</em> (in press). [Link](https://doi.org/10.1111/puar.13701)
+
+Smith, S. C. & [D. Ubilava](https://davidubilava.com/) (2017). The El Ni&ntilde;o Southern Oscillation Cycle and Growth in the Developing World. <em>Global Environmental Change</em> 45, 151-164. [Link](https://www.sciencedirect.com/science/article/pii/S0959378017300432)
 
 ## Outreach Material
 
