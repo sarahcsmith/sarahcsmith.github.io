@@ -4,9 +4,9 @@ title: "Research"
 ---
 
 ## Working papers
-### Postharvest Losses from Weather and Climate Change: Evidence from 1.2 Million Truckloads 
+### Postharvest Losses from Weather and Climate Change: Evidence from a Million Truckloads 
 ![](../assets/cubic_revenue_3d_pval.png){: width="500" }{: .align-left}  
-We estimate the effect of weather and climate change on postharvest losses using proprietary data on 1.2 million truckloads of processing tomatoes in California. Our reduced-form estimation strategy compares processing tomatoes that originate from the same field in the same growing season but experience different weather and traffic conditions during transit. Hot temperatures during transportation damage product quality and lead to lower producer revenue, particularly if hot temperatures coincide with slow traffic. We predict climate change will increase postharvest losses by century's end absent additional adaptation. We add to prior work focused on the effects of extreme weather and climate change on farm production with little attention paid to what happens when these products leave the farm gate. Hot temperature during transportation causes about 5 times more damage than equivalent exposure during the growing season.
+We estimate the effect of weather and climate change on postharvest losses from data on 1.2 million truckloads of processing tomatoes in California. Our reduced-form estimation strategy compares processing tomatoes grown in the same field in the same season but experience different weather and traffic conditions during transit. Hot temperatures during transportation damage product quality and lead to lower producer revenue, particularly when hot temperatures coincide with heavy traffic. While effect sizes are small in absolute terms, hot temperatures during transportation cause about three times more damage than equivalent exposure during the growing season. We predict climate change will increase postharvest losses by century's end absent additional adaptation. We add to prior work focused on farm output with little attention paid to effects of extreme weather and climate change on products after they leave the farm.
 {:style="clear: left"}
 
 ### Doing More with Less: Margins of Response to Water Scarcity in Irrigated Agriculture
